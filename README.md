@@ -1,7 +1,7 @@
 
 <h3 align="center">A iOS Developer from Turkey</h3>
 
-- 🌱 I’m currently learning **Swift**
+- 🌱 I’m currently learning **Swift** and **SwiftUI**
 
 - 📫 How to reach me **eminkarakas@outlook.com.tr**
 
