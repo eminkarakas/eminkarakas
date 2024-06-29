@@ -1,5 +1,5 @@
 
-<h3 align="center">A iOS Developer from Turkey</h3>
+<h3 align="center">A Developer from Turkey</h3>
 
 -  I’m currently learning **Swift** and **SwiftUI**
 
